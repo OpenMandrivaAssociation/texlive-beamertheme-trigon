@@ -1,6 +1,6 @@
 Name:		texlive-beamertheme-trigon
-Version:	63270
-Release:	2
+Version:	65985
+Release:	1
 Summary:	A modern, elegant, and versatile theme for Beamer
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-trigon
