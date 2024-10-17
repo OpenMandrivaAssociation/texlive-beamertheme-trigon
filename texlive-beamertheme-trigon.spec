@@ -3,7 +3,7 @@ Version:	65985
 Release:	1
 Summary:	A modern, elegant, and versatile theme for Beamer
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-trigon
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-trigon
 License:	cc-by-sa-4
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamertheme-trigon.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamertheme-trigon.doc.r%{version}.tar.xz
